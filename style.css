@@ -1,0 +1,16 @@
+h1{
+  position: relative;
+  background: aqua;
+  color: greenyellow;
+}
+img{
+  position: relative;
+  height: 10rem;
+  width: 10rem;
+  border-radius: 10%; 
+  display: flex;
+}
+h2{
+  color: rosybrown;
+  background: yellow;
+}
